@@ -19,3 +19,7 @@ streamlit run app.py
 ```
 
 Never commit `.streamlit/secrets.toml`.
+
+## 🌐 Live Demo
+
+🚀 [Try Snap & Study](https://snap-study-viukrewf78gbjgtaisflwt.streamlit.app/)
